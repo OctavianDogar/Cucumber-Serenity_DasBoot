@@ -1,0 +1,4 @@
+Search for shipwrecks
+In order to find out abot shipwrecks
+As a human
+I want to be able to look up some info
